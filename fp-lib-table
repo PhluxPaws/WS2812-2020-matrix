@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name phlox)(type KiCad)(uri ${KIPRJMOD}/phlox.pretty)(options "")(descr ""))
+)
